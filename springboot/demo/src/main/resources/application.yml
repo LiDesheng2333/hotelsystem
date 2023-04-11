@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    url: jdbc:mysql://47.115.220.227:3306/hotelSystem?serverTimezone=GMT%2b8
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis:
+  mapper-locations:  classpath:mapper/*.xml
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+
+
