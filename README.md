@@ -141,7 +141,7 @@
 
 ## 🐼部署项目
 
-![image-20231030110703088](https://pic.yupi.icu/5563/image-20231030110703088.png)
+![image-20231030110703088](https://api.cs2box.top/other/8.png)
 
 + 可以下载ZIP压缩包或者使用克隆(Git clone)
 + 复制http或者ssh的链接（github建议ssh,gittee都可以)
